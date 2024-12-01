@@ -6,3 +6,6 @@ This is a sample header
 ``` python
 print("hello world")
 ```
+- [x] Add image
+- [x] Add code
+- [ ] Finish tutorial
